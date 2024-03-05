@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leonardosocorro.miscelaneos",
+      "sha256_cert_fingerprints": [
+        "A8:ED:28:14:4C:3B:24:BE:90:85:34:0F:16:72:60:43:6B:FF:F1:42:CA:6C:15:1C:C0:D0:8D:B3:79:57:06:86"
+      ]
+    }
+  }
+]
